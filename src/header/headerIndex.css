@@ -1,0 +1,41 @@
+
+
+.headerContainer{
+    text-align: center;
+    background-color: rgb(170, 147, 147);
+    border: solid 2px rgb(32, 19, 19);
+    box-shadow: 2px 2px 5px rgb(168, 167, 167);
+    cursor: pointer;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+.image-head{
+    position: relative;
+}
+.gospelName{
+    color: white;
+    position: absolute;
+    top: 5px;
+    margin-top: 10px;
+    margin-left: 1.5px;
+    margin-top: 8px;
+    text-decoration: double;
+    font-weight: 600;
+
+}
+
+.gospel-image1{
+    width: 150px;
+    height: 55px;
+    
+    
+}
